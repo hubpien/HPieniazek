@@ -1,4 +1,4 @@
-Aloha 🤙 <img src="https://raw.githubusercontent.com/Frekkilt/Frekkilt/main/shaka.gif" width="30px">
+Aloha <img :call_me_hand: width = 30px>
 
 
 <!---
