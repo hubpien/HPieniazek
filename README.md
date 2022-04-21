@@ -4,7 +4,7 @@ Aloha
 
 
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HPieniazek&show_icons=true&bg_color=0D1117&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HPieniazek&show_icons=true&bg_color=0D1117&theme=radical&hide_border=true&count_private=true)
 
 
 <!---
