@@ -1,5 +1,6 @@
-Aloha 🤙
 
+<h1 align="center">Aloha 🤙 I'm Hubert</h1>
+<h3 align="center">A passionate backend developer from Poland</h3>
 My repo to keep important stuff in one place 
 
 
