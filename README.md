@@ -2,7 +2,7 @@
 
 <h1 align="left">Aloha 🤙 I'm Hubert</h1>
 
-<h3 align="left">My repo to keep important stuff in one place </h3>
+<h3 align="left">My repo to keep important stuff in one place  </h3>
 
 
 # 💻
